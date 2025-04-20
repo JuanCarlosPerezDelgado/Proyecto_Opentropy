@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("Vista 360 interactiva")
-st.components.v1.iframe("https://juancarlosperezdelgado.github.io/Imagenes/index.html", width=700, height=500)
+st.title("Laboratorio Virtual")
+st.components.v1.iframe("https://juancarlosperezdelgado.github.io/Imagenes/index.html", width=1000, height=1000)
 
 
 

@@ -5,7 +5,7 @@ st.title("Laboratorio Virtual")
 
 
 st.write(f"""
-        <div style="width: 100%; height: 1000px;">
+        <div style="width: 1000; height: 1000px;">
             <iframe src="https://juancarlosperezdelgado.github.io/Imagenes/index.html" style="border: none;"></iframe>
         </div>
         """,unsafe_allow_html=True)
